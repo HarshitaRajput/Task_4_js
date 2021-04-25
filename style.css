@@ -1,0 +1,25 @@
+.namerow{
+  margin: 3% 40% 5% 5%;
+}
+
+.container{
+  /*margin-top: 5%;*/
+ 
+  padding-bottom: 5%;
+  border: 1px;
+  border-style: solid;
+  border-color: grey;
+  display: block;
+}
+
+.detailsform{
+  font-size: 15px;
+}
+
+/*.tbl{
+  margin: 5%;
+}*/
+.f2{
+  background-color: #f5f5ef;
+  border-color: #f5f5ef;
+}
